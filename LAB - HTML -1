@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color: pink;"> Personal Portfolio </title>
+    </head>
+    <body>
+        <h1 style="background-color: blanchedalmond;">Joshua Nizamudin</h1>
+        <h3 style="background-color: blanchedalmond;color: rgb(94, 187, 94);" >Hilliard College of Architecture and Design, JNN9, B.Arch </h3>
+        <p style="background-color: blanchedalmond;">Joshua Nizamudin is an 18 year old Architecture student from the Bahamas.<br>
+        He came to New Jersey to study at a progressive university as to work towards<br>
+        a more <a href="https://www.njit.edu/academics/major/environmental-science"> environmentally conscious</a> world with regards to taking care of our planet<br>
+        both through environmental work and through spreading awareness of the importance<br>
+        of taking care of our planet.</p>
+    </body>
+    <img src="tree.jpg" width="800" height="500">
+</html>
