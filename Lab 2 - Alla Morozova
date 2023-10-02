@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color: tomato;">
+            Personal Portfolio
+        </title>
+    </head>
+    <body>
+        <h1 style="background-color: lightgoldenrodyellow;"> Alla Morozova</h1>
+        <h3 style="background-color: lightgoldenrodyellow;"> Hillier College of Architecture and Design</h3>
+        <h3 style="background-color: lightgoldenrodyellow;"> asm255</h3>
+        <h3 style="background-color: lightgoldenrodyellow;"> Bachelor of Architecture</h3>
+        <p
+            style="color: salmon;"> I am an aspiring first-year architecture student at <br> the New Jersey Institute of Technology. I am a curious <br> and creative individual whose goal is to spend every day learning something new. 
+        </p>
+        <a href=" "https://www.njit.edu"> Visit NJIT</a>
+    </body>
+        <img src="image-licorice.jpg" width="400" height="250">
+        <hr>
+        <div> 
+            <table>
+                <tr>
+                    <th> Education</th>
+                    <th> Experience</th>
+                    <th> Skills</th>
+                </tr>
+                <tr>
+                    <td> 32 </td>
+                    <td> 85 </td>
+                    <td> 65 </td>
+                </tr>
+                <tr>
+                    <td> 86 </td>
+                    <td> 16 </td>
+                    <td> 23 </td>
+                </tr>
+            </table>
+        </div>
+        <hr>
+        <div>
+                <form>
+                        <input type="text" placeholder="Username"> <br> <br>
+                        <input type="text" placeholder="First Name"> <br> <br>
+                        <input type="text" placeholder="Last Name"> <br> <br>
+                        <input type="email" placeholder="Email"> <br> <br>
+        
+                        <input type="checkbox" id="course1" name="course1" value="Math">
+                        <label for="course1"> Math</label><br>
+                        <input type="checkbox" id="course2" name="course2" value="Architecture">
+                        <label for="course2"> Architecture</label><br>
+                        <input type="checkbox" id="course3" name="course3" value="Computer Science">
+                        <label for="course3"> Computer Science</label><br>
+                        <input type="radio" id="course1" name="course1" value="Math">
+                        <label for="course1"> Math</label><br>
+                        <input type="radio" id="course2" name="course2" value="Architecture">
+                        <label for="course2"> Architecture</label><br>
+                        <input type="radio" id="course3" name="course3" value="Computer Science">
+                        <label for="course3"> Computer Science</label><br>
+                        <input type="submit" value="Login">
+                        
+                </form>
+        </div>
+        <hr>
+        <div>
+            <ul> 
+                <li>ARCH110</li>
+                <li>ARCH195</li>
+                <li>ENGL101</li>
+                <li>MATH105</li>
+                <li>CS104</li>
+                <li>FYSSEMA03</li>
+            </ul>
+        </div>
+    
+
+                
+</html>
