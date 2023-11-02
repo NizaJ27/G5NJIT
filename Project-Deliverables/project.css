@@ -1,6 +1,36 @@
 h1{
     font-size: 50px;
     padding: 10px;
+    float: left;
+    color: white;
+    
+    
+}
+h2{
+    height: 80px;
+    text-align: auto;
+}
+#contactpage{
+    align-self: center;
+}
+.title{
+    color: #272727;
+    width:fit-content;
+    margin: auto;
+    border-radius: 5px;
+}
+.text{
+    font-size: 250%;
+    color: #747474;
+}
+#navbar{
+    float:unset;
+    font-size: 133%;
+   
+}
+.quest{
+    color:#747474;
+    text-align: center;
 }
 #login{
     text-align: center;
@@ -10,9 +40,29 @@ h1{
 body{
     background-color: #272727;
 }
+#logsec{
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+.form-check{
+    display:block;
+    width: fit-content;
+}
+.form-container{
+    width:auto;
+    align-items: center;
+    margin: 10px 300px 10px 300px;
+    border-radius: 10px;
+}
+.formcu{
+    margin: 10px 100px 10px 100px;
+}
 #login{
     width: 500px;
 }
 .form-check{
     color: lightgray;
+    margin-left: 45%;
 }
