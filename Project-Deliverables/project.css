@@ -62,7 +62,10 @@ body{
 #login{
     width: 500px;
 }
-.form-check{
+.form{
     color: lightgray;
     margin-left: 45%;
+}
+.m-5{
+    color:lightgray;
 }
