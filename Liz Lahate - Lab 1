@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My Portfolio
+        </title>
+    </head>
+
+    <body>
+        <center>
+            <h1 style="color: #673d08; background-color: rgb(223, 180, 99);">Liz Sephora Lahate</h1>
+
+            <h3 style="color: #673d08; background-color: rgb(223, 180, 99);">NJIT, 31646035, B.A. in architecture</h3>
+
+            <p style="color: #673d08; background-color: bisque;">I'm Liz S. Lahate, a first year student at New Jersey Institute of Technology (NJIT). <br> I was born in the United States but was raised in Haiti for sixteen years. I then began <br> living in the US in September 2021. Due to my love for art and creativity, I am <br> currently pursuing a degree in architecture.</p>
+            
+            <a href="https://design.njit.edu/">Hillier College of Architecture and Design (HCAD)</a>
+
+            <img src="img2.jpg" alt="Me">
+        </center>
+    </body>
+</html>
